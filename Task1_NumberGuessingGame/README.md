@@ -1,5 +1,4 @@
 # Task 1 - Number Guessing Game
-
 A simple Java console game where the program picks a random number 
 between 1 and 100, and the user has to guess it.
 
