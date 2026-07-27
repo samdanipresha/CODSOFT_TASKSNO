@@ -8,8 +8,8 @@ focused on strengthening core programming, OOP, and application design skills.
 
 ## Tasks Completed
 Task 1 - Number Guessing Game - Done
-Task 2 - Student Grade Calculator - In Progress
-Task 3 - ATM Interface - In Progress
+Task 2 - Student Grade Calculator - Done
+Task 3 - ATM Interface - Done
 
 ## Tech Stack
 - Java
